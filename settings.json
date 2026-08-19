@@ -8,7 +8,7 @@
   "server": {
     "ip": "leangelserver.joinmc.world",
     "port": 45401,
-    "version": "26.2",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
